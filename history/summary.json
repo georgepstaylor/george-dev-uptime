@@ -4,19 +4,19 @@
     "url": "https://george.dev",
     "icon": "https://icons.duckduckgo.com/ip3/george.dev.ico",
     "slug": "george-dev",
-    "status": "down",
-    "uptime": "30.07%",
-    "uptimeDay": "30.07%",
-    "uptimeWeek": "30.07%",
-    "uptimeMonth": "30.07%",
-    "uptimeYear": "30.07%",
-    "time": 187,
-    "timeDay": 187,
-    "timeWeek": 187,
-    "timeMonth": 187,
-    "timeYear": 187,
+    "status": "up",
+    "uptime": "28.33%",
+    "uptimeDay": "28.33%",
+    "uptimeWeek": "28.33%",
+    "uptimeMonth": "28.33%",
+    "uptimeYear": "28.33%",
+    "time": 257,
+    "timeDay": 257,
+    "timeWeek": 257,
+    "timeMonth": 257,
+    "timeYear": 257,
     "dailyMinutesDown": {
-      "2024-12-01": 44
+      "2024-12-01": 48
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://analytics.george.dev",
     "icon": "https://icons.duckduckgo.com/ip3/analytics.george.dev.ico",
     "slug": "george-dev-plausible",
-    "status": "down",
-    "uptime": "30.04%",
-    "uptimeDay": "30.04%",
-    "uptimeWeek": "30.04%",
-    "uptimeMonth": "30.04%",
-    "uptimeYear": "30.04%",
-    "time": 193,
-    "timeDay": 193,
-    "timeWeek": 193,
-    "timeMonth": 193,
-    "timeYear": 193,
+    "status": "up",
+    "uptime": "28.25%",
+    "uptimeDay": "28.25%",
+    "uptimeWeek": "28.25%",
+    "uptimeMonth": "28.25%",
+    "uptimeYear": "28.25%",
+    "time": 255,
+    "timeDay": 255,
+    "timeWeek": 255,
+    "timeMonth": 255,
+    "timeYear": 255,
     "dailyMinutesDown": {
-      "2024-12-01": 44
+      "2024-12-01": 48
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://shhmas.george.dev",
     "icon": "https://icons.duckduckgo.com/ip3/shhmas.george.dev.ico",
     "slug": "secret-santa",
-    "status": "down",
-    "uptime": "30.03%",
-    "uptimeDay": "30.03%",
-    "uptimeWeek": "30.03%",
-    "uptimeMonth": "30.03%",
-    "uptimeYear": "30.03%",
-    "time": 198,
-    "timeDay": 198,
-    "timeWeek": 198,
-    "timeMonth": 198,
-    "timeYear": 198,
+    "status": "up",
+    "uptime": "28.18%",
+    "uptimeDay": "28.18%",
+    "uptimeWeek": "28.18%",
+    "uptimeMonth": "28.18%",
+    "uptimeYear": "28.18%",
+    "time": 254,
+    "timeDay": 254,
+    "timeWeek": 254,
+    "timeMonth": 254,
+    "timeYear": 254,
     "dailyMinutesDown": {
-      "2024-12-01": 44
+      "2024-12-01": 48
     }
   }
 ]
