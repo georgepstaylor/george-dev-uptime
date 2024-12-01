@@ -15,8 +15,8 @@ sites:
   - name: george.dev
     url: https://george.dev
   - name: george.dev plausible
-    # test the public script url as the rest is protected with cloudflare access
-    url: https://analytics.george.dev/js/script.js
+    # test the health api as the rest is protected with cloudflare access
+    url: https://analytics.george.dev/api/health
   - name: Secret Santa
     url: https://shhmas.george.dev
 
