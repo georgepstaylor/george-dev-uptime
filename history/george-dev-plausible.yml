@@ -1,7 +1,7 @@
 url: https://analytics.george.dev/api/health
-status: down
-code: 500
-responseTime: 4657
-lastUpdated: 2025-02-16T04:37:28.084Z
+status: up
+code: 200
+responseTime: 322
+lastUpdated: 2025-02-16T05:10:19.236Z
 startTime: 2024-12-01T01:25:43.415Z
 generator: Upptime <https://github.com/upptime/upptime>
