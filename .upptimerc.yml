@@ -14,7 +14,7 @@ workflowSchedule:
 sites:
   - name: george.dev
     url: https://george.dev
-  - name: george.dev plausible
+  - name: stats.gtlab.uk - plausible
     # test the health api as the rest is protected with cloudflare access
     url: https://stats.gtlab.uk/api/health
   # - name: Secret Santa
