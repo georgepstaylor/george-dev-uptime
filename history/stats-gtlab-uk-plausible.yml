@@ -1,7 +1,7 @@
 url: https://stats.gtlab.uk/api/health
-status: down
-code: 530
-responseTime: 300
-lastUpdated: 2025-07-18T11:29:13.086Z
+status: up
+code: 200
+responseTime: 394
+lastUpdated: 2025-07-18T11:55:40.792Z
 startTime: 2025-06-13T11:01:20.608Z
 generator: Upptime <https://github.com/upptime/upptime>
