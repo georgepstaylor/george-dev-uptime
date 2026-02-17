@@ -4,7 +4,7 @@
     "url": "https://george.dev",
     "icon": "https://icons.duckduckgo.com/ip3/george.dev.ico",
     "slug": "george-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 210,
     "timeYear": 227,
     "dailyMinutesDown": {
+      "2026-02-17": 0,
       "2026-01-09": 464,
       "2025-10-30": 29,
       "2025-04-14": 66
