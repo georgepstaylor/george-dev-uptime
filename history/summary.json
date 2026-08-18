@@ -27,17 +27,17 @@
     "url": "https://stats.gtlab.uk/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/stats.gtlab.uk.ico",
     "slug": "stats-gtlab-uk-plausible",
-    "status": "up",
+    "status": "down",
     "uptime": "97.37%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.98%",
-    "time": 500,
-    "timeDay": 474,
-    "timeWeek": 525,
-    "timeMonth": 468,
-    "timeYear": 504,
+    "time": 499,
+    "timeDay": 322,
+    "timeWeek": 480,
+    "timeMonth": 459,
+    "timeYear": 503,
     "dailyMinutesDown": {
       "2025-11-18": 38,
       "2025-11-20": 28,
@@ -54,7 +54,8 @@
       "2026-04-28": 1440,
       "2026-04-27": 1440,
       "2026-04-26": 1440,
-      "2026-04-25": 737
+      "2026-04-25": 737,
+      "2026-08-18": 0
     }
   }
 ]
